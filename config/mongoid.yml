@@ -1,0 +1,4 @@
+development:
+  host: localhost
+  port: 27017
+  database: accenture_development
